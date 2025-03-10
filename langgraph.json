@@ -1,0 +1,5 @@
+{
+  "graphs": {
+    "researchAgent": "./research-graph.ts:graph"
+  }
+}
